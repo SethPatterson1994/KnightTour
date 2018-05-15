@@ -1,0 +1,14 @@
+D:\C#\VisualStudio\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.exe.config
+D:\C#\VisualStudio\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.exe
+D:\C#\VisualStudio\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.pdb
+D:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.csprojResolveAssemblyReference.cache
+D:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.exe
+D:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.pdb
+E:\C#\VisualStudio\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.exe.config
+E:\C#\VisualStudio\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.exe
+E:\C#\VisualStudio\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.pdb
+E:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.csprojResolveAssemblyReference.cache
+E:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.csproj.CoreCompileInputs.cache
+E:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.exe
+E:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.pdb
+D:\C#\VisualStudio\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.csproj.CoreCompileInputs.cache
